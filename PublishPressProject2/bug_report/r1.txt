@@ -1,0 +1,6 @@
+
+Verified that admin is able to create a user with the assigned role (author in this case) using automatic script.
+
+Bug occurred when user attempt to log in, website displayed "Sorry, you are not allowed to access this page.". For some reason when I enter website url again It logged me in.
+
+Author is able to create new Post, media and comment on Post. Testing for this had to be done manually as there are minor problem with logging in as user. (website did not break).
